@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there! 🙋🏻‍♀️
+I'm Rumana, a self-taught data analyst from London, UK.
 
-<!--
-**RumanaPatel/RumanaPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ About Me in 30 Secs ✨
 
-Here are some ideas to get you started:
+👩🏻‍💻 Pharmacist and Business Founder turned Data Analyst
+📊 Transition to data since March 2022
+📝 Taught myself Excel, SQL and Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projects & Guides 📚
+For my portfolio guide, click HERE
+
+## 💡 Core Competencies 💡
+Tools: Excel, SQL, Power BI
+Skills: Data Cleaning and Wrangling, Data Modelling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
+
+# ⚡️ Currently ⚡️
+Brushing up on data cleaning and wrangling skills using Python
+Learning DAX
+
+
+# 🙌🏻 Connect with Me
+LinkedIn
+
+
