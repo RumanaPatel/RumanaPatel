@@ -1,7 +1,7 @@
 ### Hi there! 🙋🏻‍♀️
 I'm Rumana, a self-taught data analyst from London, UK.
 
-# ✨ About Me in 30 Secs ✨
+#### ✨ About Me in 30 Secs ✨
 
 👩🏻‍💻 Pharmacist and Business Founder turned Data Analyst
 📊 Transition to data since March 2022
