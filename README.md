@@ -7,19 +7,18 @@ I'm Rumana, a self-taught data analyst from London, UK.
 📊 Transition to data since March 2022
 📝 Taught myself Excel, SQL and Power BI
 
-## 📚 Projects & Guides 📚
+#### 📚 Projects & Guides 📚
 For my portfolio guide, click HERE
 
-## 💡 Core Competencies 💡
+#### 💡 Core Competencies 💡
 Tools: Excel, SQL, Power BI
 Skills: Data Cleaning and Wrangling, Data Modelling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
-# ⚡️ Currently ⚡️
+#### ⚡️ Currently ⚡️
 Brushing up on data cleaning and wrangling skills using Python
 Learning DAX
 
-
-# 🙌🏻 Connect with Me
-LinkedIn
+#### 🙌🏻 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/rumanapatel/)
 
 
