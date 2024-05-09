@@ -11,7 +11,7 @@ I'm Rumana, a self-taught data analyst from London, UK.
 For my portfolio guide, click HERE
 
 #### 💡 Core Competencies 💡
-- Tools: Excel, SQL, Tableau
+- Tools: SQL, Tableau, AppsScript, Google Sheets, Excel, dbt
 - Skills: Data Mining, Data Cleaning and Wrangling, Data Modelling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
 #### ⚡️ Currently ⚡️
