@@ -7,9 +7,6 @@ I'm Rumana, a self-taught data analyst from London, UK.
 - 📊 Transitioned to data since March 2022
 - 📝 Taught myself Excel, SQL, Python and Tableau
 
-#### 📚 Projects & Guides 📚
-For my portfolio guide, click HERE
-
 #### 💡 Core Competencies 💡
 - Tools: SQL, Tableau, AppsScript, Google Sheets, Excel, dbt
 - Skills: Data Mining, Data Cleaning and Wrangling, Data Modelling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
